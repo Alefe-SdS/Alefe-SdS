@@ -1,5 +1,5 @@
 # Hello World! Eu sou Álefe Santana
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💻 Desenvolvedor em formação estudante de Análise e Desenvolvimento de Sistemas , tenho grande interesse por tecnologia, resolução de problemas e desenvolvimento de soluções que façam a diferença.
 Tenho conhecimento básico em linguagens como Python, HTML/CSS.
 Atualmente estou desenvolvendo projetos próprios e acadêmicos, como uma aplicação de IA para previsão de traços de personalidade com base em dados sociais, e meu portfolio em HTML/CSS. Estou sempre buscando aprender mais, seja através de cursos, projetos ou colaboração em equipe.
@@ -12,7 +12,7 @@ Interesse em Desenvolvimento Web, Ciência de Dados. Aberto a oportunidades de e
   <a href="https://instagram.com/alefe__santana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🧠💻 Linguagens e Tecnologias 
 
