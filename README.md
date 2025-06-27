@@ -1,6 +1,6 @@
-# Hello World! Eu sou Álefe Santana
+# 📖🎓 Hello, World! Eu sou Álefe Santana
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💻 Desenvolvedor em formação estudante de Análise e Desenvolvimento de Sistemas , tenho grande interesse por tecnologia, resolução de problemas e desenvolvimento de soluções que façam a diferença.
+🧠 Desenvolvedor em formação estudante de Análise e Desenvolvimento de Sistemas , tenho grande interesse por tecnologia, resolução de problemas e desenvolvimento de soluções que façam a diferença.
 Tenho conhecimento básico em linguagens como Python, HTML/CSS.
 Atualmente estou desenvolvendo projetos próprios e acadêmicos, como uma aplicação de IA para previsão de traços de personalidade com base em dados sociais, e meu portfolio em HTML/CSS. Estou sempre buscando aprender mais, seja através de cursos, projetos ou colaboração em equipe.
 
